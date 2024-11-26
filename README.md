@@ -7,6 +7,7 @@ enjoy van life
 ```
 
 ![Screenshot 2023-10-29 at 7 22 23 PM](https://github.com/user-attachments/assets/e791e110-f046-419d-8e0b-f32f092cc6fd)
+<img width="337" alt="Screenshot 2023-10-31 at 6 27 13 PM" src="https://github.com/user-attachments/assets/71c60720-0a2d-403b-bc4b-f70a71969059">
 
 
 ## Project Structure
