@@ -2,6 +2,8 @@
 
 - 👀 live demo https://american-van-life.netlify.app/
 
+![Screenshot 2023-10-29 at 7 22 23 PM](https://github.com/user-attachments/assets/e791e110-f046-419d-8e0b-f32f092cc6fd)
+
 
 ## Project Structure
 
