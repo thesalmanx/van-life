@@ -1,6 +1,6 @@
 # Van Life 🚎
 
-- 👀 live demo https://american-van-life.netlify.app/
+## 👀 live demo https://american-van-life.netlify.app/
 
 ```bash
 enjoy van life
